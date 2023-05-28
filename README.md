@@ -24,6 +24,11 @@ I am a software developer, technical writer and open source advocate with 3 year
 - I contribute to Open Source projects and I am currently contribution to CHAOSS Africa, Layer5 and Flowbite
 
   My current tech Stack
-  ReactJS,
+  JavaScript
+  ReactJS
+  Node JS
+  Tailwind CSS
+  GraphQL
+  
   
 
