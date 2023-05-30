@@ -18,7 +18,7 @@ I am a software developer, technical writer and open source advocate. I build so
   </div>
   
  ## My Projects
- <div id="projects" align="center">
+ <div id="projects">
  <a href="https://catherinekiiru.netlify.app/">
   <img width="295" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
 </a>
