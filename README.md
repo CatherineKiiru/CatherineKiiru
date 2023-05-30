@@ -1,3 +1,6 @@
+![Screenshot from 2023-05-30 22-27-07](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/542f17f9-f5dd-4e6a-b0dc-edbbf6afde66)
+
+
 # Hi there 👋, and nice to meet you
 
 I am a software developer, technical writer and open source advocate. I build software solutions that help companies meet their business goals and improve business productivity. 
@@ -6,7 +9,7 @@ I am a software developer, technical writer and open source advocate. I build so
 - I am a technical writer experienced in writing documentation and technical content for SaaS companies.
 - I contribute to Open Source projects and I am currently contribution to CHAOSS Africa, Layer5 and Flowbite.
 
-## My Current Tech Stack:
+## My Current Tech Stack
  <div id="badges"  width="100" height="100">
     <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white" alt="React Badge"/>
@@ -15,12 +18,25 @@ I am a software developer, technical writer and open source advocate. I build so
     <img src="https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white" alt="mongdb Badge"/>
   </div>
   
- <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+ ## My Projects
+ <div id="projects" align="center">
+ <a href="https://catherinekiiru.netlify.app/">
+  <img width="295" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
 </a>
+ <a href="[https://ecommercesite-23.netlify.app/](https://frescopizza.netlify.app/)">
+  <img width="300" height="192" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
+</a> 
+  <a href="https://ecommercesite-23.netlify.app/">
+  <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
+</a>
+ </div>
+ 
+ ## My Blog
+ - A comprehensive Guide to Asynchronous JavaScript [With Code Examples]- https://catherinekiiru.hashnode.dev/a-comprehensive-guide-to-asynchronous-javascript-with-code-examples
+ - Common Terminal Commands: A Beginners Guide and their Functions - https://catherinekiiru.hashnode.dev/common-terminal-commands-and-their-functions-a-beginners-guide
+ - Contributing to Open Source as a Developer and Technical Writer - https://catherinekiiru.hashnode.dev/contributing-to-open-source-as-a-developer-and-technical-writer
   
-  
-  ## Let's Connect:
+ ## Let's Connect
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/catherine-kiiru-47b2688b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
