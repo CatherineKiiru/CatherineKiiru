@@ -24,10 +24,14 @@ I am a software developer, technical writer and open source advocate. I build so
 </a>
  <a href="[https://ecommercesite-23.netlify.app/](https://frescopizza.netlify.app/)">
   <img width="300" height="192" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
-</a> 
-  <a href="https://ecommercesite-23.netlify.app/">
+</a> <br/>
+ <a href="https://ecommercesite-23.netlify.app/">
   <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
 </a>
+ <a href="https://647654db2bbffa0a6ea572c4--resonant-souffle-168cfd.netlify.app/morerecip.html">
+  <img width="300" height="190" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/recipe%20site.png"/>
+</a>
+ 
  </div>
  
  ## My Blog
