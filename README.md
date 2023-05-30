@@ -1,7 +1,6 @@
-![Screenshot from 2023-05-30 22-27-07](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/542f17f9-f5dd-4e6a-b0dc-edbbf6afde66)
+![Screenshot from 2023-05-30 22-29-19](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/ac363788-7735-421d-9e0f-b848adb3ab6a)
 
-
-# Hi there 👋, and nice to meet you
+## Hi there 👋, and nice to meet you!
 
 I am a software developer, technical writer and open source advocate. I build software solutions that help companies meet their business goals and improve business productivity. 
 
@@ -36,7 +35,7 @@ I am a software developer, technical writer and open source advocate. I build so
  - Common Terminal Commands: A Beginners Guide and their Functions - https://catherinekiiru.hashnode.dev/common-terminal-commands-and-their-functions-a-beginners-guide
  - Contributing to Open Source as a Developer and Technical Writer - https://catherinekiiru.hashnode.dev/contributing-to-open-source-as-a-developer-and-technical-writer
   
- ## Let's Connect
+ ## Let's Connect!
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/catherine-kiiru-47b2688b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
