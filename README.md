@@ -4,11 +4,9 @@
 
 I am a software developer, technical writer and open source advocate. I enjoy building & advocating for technical products in SaaS and Open Source. 
 
-- I’m working as a Software developer and contributing to frontend and backend for building web applications.
-- I am a technical writer experienced in writing documentation and technical content for SaaS companies.
 - I’m working as a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations.
-- I contribute to Open Source projects and I am currently contribution to CHAOSS Africa, Layer5 and Flowbite.
+- I actively contribute to Open Source projects and my current focus is CHAOSS and Flowbite.
 - I enjoy teaching & mentoring within technical communities. I especially love helping entry-level developers navigate and succeed in tech.
 
 ## My Current Tech Stack
