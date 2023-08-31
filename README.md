@@ -8,6 +8,7 @@ I am a software developer, technical writer and open source advocate. I enjoy bu
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations.
 - I actively contribute to Open Source projects and my current focus is CHAOSS and Flowbite.
 - I enjoy teaching & mentoring within technical communities. I especially love helping entry-level developers navigate and succeed in tech.
+- I am also an experience marketer. My technical and business skills enable me to build technical products that fulfil business goals. 
 
 ## My Current Tech Stack
  <div id="badges"  width="100" height="100">
