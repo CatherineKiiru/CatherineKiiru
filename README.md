@@ -21,16 +21,16 @@ I am a software developer, technical writer and open source advocate. I enjoy bu
   
  ## My Projects
  <div id="projects" align="center">
- <a href="https://catherinekiiru.netlify.app/">
+ <a  href="https://landingpage-catherinekiiru.netlify.app/" target="_blank">
   <img width="295" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
 </a>
- <a href="[https://ecommercesite-23.netlify.app/](https://frescopizza.netlify.app/)">
+ <a href="[https://ecommercesite-23.netlify.app/](https://frescopizza.netlify.app/) target="_blank"">
   <img width="300" height="192" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
 </a> <br/>
- <a href="https://ecommercesite-23.netlify.app/">
+ <a href="https://ecommercesite-23.netlify.app/ target="_blank"">
   <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
 </a>
- <a href="https://647654db2bbffa0a6ea572c4--resonant-souffle-168cfd.netlify.app/morerecip.html">
+ <a href="https://647654db2bbffa0a6ea572c4--resonant-souffle-168cfd.netlify.app/morerecip.html" target="_blank">
   <img width="300" height="190" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/recipe%20site.png"/>
 </a>
  
