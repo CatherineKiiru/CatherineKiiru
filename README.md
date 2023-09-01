@@ -6,9 +6,9 @@ I am a software developer, technical writer and open source advocate. I enjoy bu
 
 - I’m a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations.
-- I actively contribute to Open Source projects and my current focus is CHAOSS and Flowbite.
-- I enjoy teaching & mentoring within technical communities. I especially love helping entry-level developers navigate and succeed in tech.
-- I am also an experience marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
+- I actively contribute to Open Source projects and my current focus is [CHAOSS](https://github.com/chaoss) and [AsyncAPI](https://github.com/asyncapi).
+- I enjoy teaching & mentoring within technical communities. I regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on [my blog](https://catherinekiiru.hashnode.dev/)
+- I am also an experienced marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
 
 ## My Current Tech Stack
  <div id="badges"  width="100" height="100">
