@@ -4,11 +4,11 @@
 
 I am a software developer, technical writer and open source advocate. I enjoy building & advocating for technical products in SaaS and Open Source. 
 
-- I’m working as a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
+- I’m a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations.
 - I actively contribute to Open Source projects and my current focus is CHAOSS and Flowbite.
 - I enjoy teaching & mentoring within technical communities. I especially love helping entry-level developers navigate and succeed in tech.
-- I am also an experience marketer. My technical and business skills enable me to build technical products that fulfil business goals. 
+- I am also an experience marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
 
 ## My Current Tech Stack
  <div id="badges"  width="100" height="100">
