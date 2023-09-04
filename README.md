@@ -1,4 +1,5 @@
-![Screenshot from 2023-05-30 22-29-19](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/ac363788-7735-421d-9e0f-b848adb3ab6a)
+
+![Catherine Kiiru](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/a310dd7f-1597-43c5-99de-7a91fc627731)
 
 ## Hi there 👋, and nice to meet you!
 
