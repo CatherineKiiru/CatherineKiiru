@@ -25,13 +25,13 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
  <a  href="https://landingpage-catherinekiiru.netlify.app/" target="_blank">
   <img width="295" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
 </a>
- <a href="(https://frescopizzabar.netlify.app/)" target="_blank">
+ <a href="https://frescopizzabar.netlify.app" target="_blank">
   <img width="300" height="192" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
 </a> <br/>
  <a href="https://ecommercesite-23.netlify.app/ target="_blank"">
   <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
 </a>
- <a href="[quickmeal-recipes.netlify.app](https://quickmeal-recipes.netlify.app/)" target="_blank">
+ <a href="https://quickmeal-recipes.netlify.app/" target="_blank">
   <img width="300" height="190" src="https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/1b38426a-6e14-408e-85c6-a60d2a0c5f79"/>
 </a>
  </div>
