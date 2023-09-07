@@ -7,7 +7,7 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
 
 - I’m a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations
-- I actively contribute to Open Source projects and my current focus is [CHAOSS](https://github.com/chaoss) and [AsyncAPI](https://github.com/asyncapi).
+- I actively contribute to Open Source projects and my current focus is [CHAOSS](https://github.com/chaoss)
 - I enjoy teaching & mentoring within technical communities. I regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on [my blog](https://catherinekiiru.hashnode.dev/)
 - I am also an experienced marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
 
@@ -22,17 +22,18 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
   
  ## My Projects
  <div id="projects" align="center">
- <a  href="https://landingpage-catherinekiiru.netlify.app/" target="_blank">
+ <a  href="https://landingpage-catherinekiiru.netlify.app/">
   <img width="295" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
 </a>
- <a href="https://frescopizzabar.netlify.app" target="_blank">
+  
+ <a href="https://frescopizzabar.netlify.app/">
   <img width="300" height="192" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
 </a> <br/>
- <a href="https://ecommercesite-23.netlify.app/" target="_blank">
+ <a href="https://ecommercesite-23.netlify.app/">
   <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
 </a>
- <a href="https://quickmeal-recipes.netlify.app" target="_blank">
-  <img width="300" height="190" src="https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/1b38426a-6e14-408e-85c6-a60d2a0c5f79"/>
+ <a href="https://quickmeal-recipes.netlify.app/">
+  <img width="300" height="190" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66266208/266225787-91a8e075-a188-41af-80b9-ed4fffcc2311.png"/>
 </a>
  </div>
  
