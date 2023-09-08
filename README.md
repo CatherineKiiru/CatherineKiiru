@@ -7,7 +7,7 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
 
 - I’m a Software developer with a focus on frontend development. I am currently improving my skills on backend development with Node.JS.
 - I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations
-- I actively contribute to Open Source projects and my current focus is [CHAOSS](https://github.com/chaoss)
+- I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) 
 - I enjoy teaching & mentoring within technical communities. I regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on [my blog](https://catherinekiiru.hashnode.dev/)
 - I am also an experienced marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
 
