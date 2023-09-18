@@ -1,5 +1,7 @@
 
-![Catherine Kiiru](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/a310dd7f-1597-43c5-99de-7a91fc627731)
+![Mentorlst  (1)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/8f019f9b-5e67-4777-9777-028446c117e4)
+
+
 
 ## Hi there 👋, and nice to meet you!
 
