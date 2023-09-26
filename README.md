@@ -1,6 +1,7 @@
 
-![Mentorlst  (1)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/8f019f9b-5e67-4777-9777-028446c117e4)
+<!---![Mentorlst  (1)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/8f019f9b-5e67-4777-9777-028446c117e4)--->
 
+![Blue   Purple gradient company profile twitter header (3)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/3276220a-72d4-4903-9598-751959b96dd1)
 
 
 ## Hi there 👋, and nice to meet you!
