@@ -8,10 +8,10 @@
 
 I am a software developer, technical writer and open source enthusiast. I enjoy building & advocating for technical products in SaaS and Open Source. 
 
-- I’m a Software developer with a focus on frontend development, currently building web applications with JavaScript, TypeScript, ReactJS, NodeJS and Tailwind.  
-- I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss).
-- I am a technical writer experienced in writing documentation and technical marketing content for SaaS & Open Source organizations.
-- I enjoy teaching & mentoring within technical communities. I regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on [my blog](https://catherinekiiru.hashnode.dev/)
+- I’m a Frontend developer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.  
+- I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) 
+- I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) and also write documentation for SaaS & Open Source organizations. I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
+- I enjoy teaching & mentoring within technical communities and regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on my blog
 - I am also an experienced marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
 
 ## My Current Tech Stack
