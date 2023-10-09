@@ -6,8 +6,6 @@
 
 ## Hi there 👋, and nice to meet you!
 
-I am a software developer, technical writer and open source enthusiast. I enjoy building & advocating for technical products in SaaS and Open Source. 
-
 - I’m a Frontend developer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.  
 - I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) 
 - I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) and also write documentation for SaaS & Open Source organizations. I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
@@ -22,7 +20,7 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
     <img src="https://img.shields.io/badge/NodeJS-green?logo=NodeJS&logoColor=white" alt="NodeJS Badge"/>
 <!--     <img src="https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white" alt="mongdb Badge"/> -->
   </div>
-  <!---
+
  ## My Projects
  <div id="projects" align="center">
  <a  href="https://landingpage-catherinekiiru.netlify.app/">
@@ -36,17 +34,16 @@ I am a software developer, technical writer and open source enthusiast. I enjoy 
  <a href="https://catherine-kiiru-advice-generator.netlify.app/">
   <img width="400" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66266208/266235743-3c78f9c0-5f47-4afe-8cac-ad38ed6b12aa.png"/>
 </a>
-!
+
  <a href="https://quickmeal-recipes.netlify.app/">
   <img width="400" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66266208/266225787-91a8e075-a188-41af-80b9-ed4fffcc2311.png"/>
 </a>
----!>
 
-
-<!--<a href="https://ecommercesite-23.netlify.app/">
+<!---
+<a href="https://ecommercesite-23.netlify.app/">
   <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
-</a>  -->
- </div>
+</a>
+ </div> --->
  
  ## My Blog
  - A comprehensive Guide to Asynchronous JavaScript [With Code Examples]- https://catherinekiiru.hashnode.dev/a-comprehensive-guide-to-asynchronous-javascript-with-code-examples
