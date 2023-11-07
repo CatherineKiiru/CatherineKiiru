@@ -53,11 +53,11 @@
   
  ## Let's Connect!
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/catherine-kiiru-47b2688b/)">
+  <a href="https://www.linkedin.com/in/catherine-kiiru-47b2688b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="[your-twitter-URL](https://twitter.com/CatherineKiiru)">
+  <a href="https://twitter.com/CatherineKiiru">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
