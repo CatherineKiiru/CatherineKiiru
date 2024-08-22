@@ -6,7 +6,7 @@
 
 ## Hi there 👋, and nice to meet you!
 
-- I’m a Frontend developer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.  
+- I’m a Software Engineer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.  
 - I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) 
 - I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) and also write documentation for SaaS & Open Source organizations. I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
 - I enjoy teaching & mentoring within technical communities and regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on my blog
