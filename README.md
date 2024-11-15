@@ -1,7 +1,5 @@
 
-<!---![Mentorlst  (1)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/8f019f9b-5e67-4777-9777-028446c117e4)--->
-
-![Blue   Purple gradient company profile twitter header (3)](https://github.com/CatherineKiiru/CatherineKiiru/assets/66266208/3276220a-72d4-4903-9598-751959b96dd1)
+![Blue   Purple gradient company profile twitter header (5)](https://github.com/user-attachments/assets/819e389b-3ecf-404d-b683-dcb95f586c3c)
 
 
 ## Hi there 👋, and nice to meet you!
@@ -9,7 +7,6 @@
 - I’m a product designer & frontend developer. I design products and ship web apps with JavaScript, React, Nextjs and TailwindCSS.   
 - I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) and contributing to Distribute Aid. 
 - I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
-- I enjoy teaching & mentoring within technical communities and regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on my blog
  
 
 ## My Current Tech Stack
@@ -21,31 +18,20 @@
     <img src="https://img.shields.io/badge/NodeJS-green?logo=NodeJS&logoColor=white" alt="NodeJS Badge"/>
 <!--     <img src="https://img.shields.io/badge/mongodb-green?logo=mongodb&logoColor=white" alt="mongdb Badge"/> -->
   </div>
-<!---
- ## My Projects
- <div id="projects" align="center">
- <a  href="https://landingpage-catherinekiiru.netlify.app/">
-  <img width="400" height="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/landing%20page.png"/>
-</a>
-<!
- <a href="https://frescopizzabar.netlify.app/">
-  <img width="400" height="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/fresco%20pizza%20shop.png"/>
-</a> <br/>
-<!
- <a href="https://catherine-kiiru-advice-generator.netlify.app/">
-  <img width="400" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66266208/266235743-3c78f9c0-5f47-4afe-8cac-ad38ed6b12aa.png"/>
-</a>
---->
-<!--
- <a href="https://quickmeal-recipes.netlify.app/">
-  <img width="400" height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/66266208/266225787-91a8e075-a188-41af-80b9-ed4fffcc2311.png"/>
-</a> --->
+  
+## Talks
+- I enjoy teaching & mentoring within technical communities and regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on my blog.
 
-<!---
-<a href="https://ecommercesite-23.netlify.app/">
-  <img width="300" src="https://github.com/CatherineKiiru/CatherineKiiru/blob/images/profile%20images/ecommerce%20page.png"/>
-</a>
- </div> --->
+ 
+<!-- <img src="https://github.com/user-attachments/assets/2ff181bf-d106-4fe9-96c9-d16a4b677b27"   alt ="React Talk"/>
+<img src="https://github.com/user-attachments/assets/46feb917-0cbe-4def-b4d1-5d5ebc9a53e5"   alt ="Payd Talk"/>
+<img src="https://github.com/user-attachments/assets/5b95d240-59ec-47e9-b3ef-60c91eeb2169"   alt ="OS Talk"/> 
+<img src="https://github.com/user-attachments/assets/34adca51-9920-40c6-922f-6d86f3d7b33d"   alt ="OS Talk"/>
+<img src="https://github.com/user-attachments/assets/8be5a984-eea5-48db-8f64-2c5730dbd563"   alt ="OS Talk"/> -->
+
+
+
+
  
  ## My Blog
  - A comprehensive Guide to Asynchronous JavaScript [With Code Examples]- https://catherinekiiru.hashnode.dev/a-comprehensive-guide-to-asynchronous-javascript-with-code-examples
