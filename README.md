@@ -4,7 +4,7 @@
 
 ## Hi there 👋, and nice to meet you!
 
-- I’m a product designer & frontend developer. I design products and ship web apps with JavaScript, React, Nextjs and TailwindCSS.   
+- I’m a product designer & frontend developer. I design products and ship web apps with JavaScript & Reactjs.    
 - I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) and contributing to Distribute Aid. 
 - I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
  
