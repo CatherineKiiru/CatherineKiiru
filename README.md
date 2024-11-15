@@ -6,14 +6,15 @@
 
 ## Hi there 👋, and nice to meet you!
 
-- I’m a Software Engineer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.  
-- I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) 
-- I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) and also write documentation for SaaS & Open Source organizations. I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
+- I’m a product designer & frontend developer. I design products and ship web apps with JavaScript, React, Nextjs and TailwindCSS.   
+- I actively contribute to Open Source projects. I am currently maintaining [CHAOSS](https://github.com/chaoss) and contributing to Distribute Aid. 
+- I also write technical content on [my blog](https://catherinekiiru.hashnode.dev/) I recently wrote the [Blazor .NET integration guide for Flowbite](https://github.com/themesberg/tailwind-blazor-starter), an Open Source component Library.
 - I enjoy teaching & mentoring within technical communities and regularly give [talks](https://www.youtube.com/watch?v=WMwnpejRXHw) and write about things I learn on my blog
-- I am also an experienced marketer. Being in marketing equipped me with transferrable skills such as problem solving, project management, collaboration and communication skills that allow me to add more value to technical teams. 
+ 
 
 ## My Current Tech Stack
  <div id="badges"  width="100" height="100">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
     <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white" alt="React Badge"/>
     <img src="https://img.shields.io/badge/tailwindcss-blue?logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
